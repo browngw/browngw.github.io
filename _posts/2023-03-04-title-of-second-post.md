@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Second Post
+description: A dangerous site deserves a dangerous blog.
 postHero: https://cdn.shopify.com/s/files/1/0675/9407/files/New-BF-Header_1000x1000.jpg?v=1623859998
 author: John Smith
 authorTwitter: https://twitter.com/mhartl
